@@ -1,6 +1,6 @@
 # url.js
 
-An URL checker that your complex URL addresses
+A URL checker for your complex URL addresses
 
 # Usage
 
